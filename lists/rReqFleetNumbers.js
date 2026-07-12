@@ -1,6 +1,5 @@
 const rReqIconFleetNumbers = new Set([
 	// FIRST
-"",
 	"first|37604",
    // STAGECOACH JUL 26
     "stagecoach|54305",
