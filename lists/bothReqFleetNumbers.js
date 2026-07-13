@@ -243,7 +243,7 @@ const bothReqIconFleetNumbers = new Set([
 "",
 "stagecoach|10661",
 "stagecoach|10662",
-"stagecoach|10663",
+"",
 "stagecoach|11709",
 "stagecoach|11711",
 "stagecoach|11713",
