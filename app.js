@@ -164,7 +164,7 @@ function getVehicleType(operatorCode, fleetNumber) {
         if (num >= 10655 && num <= 11716) return "ADL E400MMC";
         if (num >= 15190 && num <= 15829) return "Scania E400";
         if (num >= 18303 && num <= 18467) return "ALX400 Trident";
-        if (num >= 19105 && num <= 19560) return "ADL E2400";
+        if (num >= 19105 && num <= 19560) return "ADL E400";
         if (num >= 26020 && num <= 26087) return "ADL E200MMC";
         if (num >= 27187 && num <= 27570) return "ADL E300";
         if (num >= 36177 && num <= 37186) return "ADL E200";
